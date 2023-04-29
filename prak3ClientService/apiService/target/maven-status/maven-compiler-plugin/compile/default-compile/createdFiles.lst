@@ -1,0 +1,6 @@
+com\bakaev\ConsumeReport.class
+com\bakaev\config\KafkaConsumerConfig.class
+com\bakaev\config\KafkaProducerConfig.class
+com\bakaev\controllers\MainController.class
+com\bakaev\Main.class
+com\bakaev\service\MessageProducer.class

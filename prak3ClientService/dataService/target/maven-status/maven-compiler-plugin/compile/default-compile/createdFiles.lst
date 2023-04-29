@@ -1,0 +1,9 @@
+com\bakaev\helper\DataBaseHelper.class
+com\bakaev\config\KafkaConsumerConfig.class
+com\bakaev\repositories\SchoolSubjectRepository.class
+com\bakaev\models\SchoolSubjects.class
+com\bakaev\models\Students.class
+com\bakaev\repositories\StudentsRepository.class
+com\bakaev\controllers\MainController.class
+com\bakaev\Main.class
+com\bakaev\service\MessageListener.class

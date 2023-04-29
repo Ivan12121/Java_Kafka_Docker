@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/apiService.iml" filepath="$PROJECT_DIR$/client/apiService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/dataService.iml" filepath="$PROJECT_DIR$/service/dataService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prak3ClientService.iml" filepath="$PROJECT_DIR$/prak3ClientService.iml" />
+    </modules>
+  </component>
+</project>
